@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.hrms.runners.SmokeRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 31.585 s <<< FAILURE! - in com.hrms.runners.SmokeRunner
+Login.Valid login  Time elapsed: 31.164 s  <<< FAILURE!
+java.lang.AssertionError
+
